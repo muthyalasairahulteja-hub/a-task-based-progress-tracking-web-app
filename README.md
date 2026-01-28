@@ -10,6 +10,9 @@ Dynamic task management app with real-time progress bars and responsive design.
 -  Mobile-responsive UI
 -  Live completion stats
 
+-  demo
+-  <img width="1455" height="803" alt="screenshot" src="https://github.com/user-attachments/assets/f785589a-dfd7-4da9-8efd-f879f1de79d3" />
+
 
 - Quick Start
 1. Clone repo
