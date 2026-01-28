@@ -14,6 +14,9 @@ Dynamic task management app with real-time progress bars and responsive design.
 -  <img width="1455" height="803" alt="screenshot" src="https://github.com/user-attachments/assets/f785589a-dfd7-4da9-8efd-f879f1de79d3" />
 
 
+- demo link [file:///Users/rahulteja/Desktop/project/index.html]
+
+
 - Quick Start
 1. Clone repo
 2. Open `index.html` in browser
