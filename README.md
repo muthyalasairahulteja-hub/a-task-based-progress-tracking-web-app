@@ -1,2 +1,7 @@
 # a-task-based-progress-tracking-web-app
-Built a task-based progress tracking web app with dynamic progress bars using JavaScript. - Implemented task management features (add/delete tasks) with a responsive UI.
+-  Add/delete tasks (Enter key support)
+-  Animated progress bars (0-100%)
+-  LocalStorage persistence
+-  Mobile-responsive UI
+-  Live completion stats
+
